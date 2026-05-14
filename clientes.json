@@ -1,0 +1,72 @@
+[
+  {
+    "_id": 1,
+    "nombre": "Diego Ramírez",
+    "email": "diego@correo.cl",
+    "ciudad": "Santiago",
+    "rut": "18.234.567-1"
+  },
+  {
+    "_id": 2,
+    "nombre": "Camila Torres",
+    "email": "camila@correo.cl",
+    "ciudad": "Concepción",
+    "rut": "19.876.543-2"
+  },
+  {
+    "_id": 3,
+    "nombre": "Matías Fuentes",
+    "email": "matias@correo.cl",
+    "ciudad": "Viña del Mar",
+    "rut": "17.345.678-3"
+  },
+  {
+    "_id": 4,
+    "nombre": "Fernanda Rojas",
+    "email": "fernanda@correo.cl",
+    "ciudad": "La Serena",
+    "rut": "20.456.789-4"
+  },
+  {
+    "_id": 5,
+    "nombre": "Javier Morales",
+    "email": "javier@correo.cl",
+    "ciudad": "Temuco",
+    "rut": "16.567.890-5"
+  },
+  {
+    "_id": 6,
+    "nombre": "Valentina Silva",
+    "email": "valentina@correo.cl",
+    "ciudad": "Puerto Montt",
+    "rut": "21.678.901-6"
+  },
+  {
+    "_id": 7,
+    "nombre": "Benjamín Soto",
+    "email": "benjamin@correo.cl",
+    "ciudad": "Antofagasta",
+    "rut": "15.789.012-7"
+  },
+  {
+    "_id": 8,
+    "nombre": "Catalina Pérez",
+    "email": "catalina@correo.cl",
+    "ciudad": "Rancagua",
+    "rut": "22.890.123-8"
+  },
+  {
+    "_id": 9,
+    "nombre": "Tomás Herrera",
+    "email": "tomas@correo.cl",
+    "ciudad": "Talca",
+    "rut": "14.901.234-9"
+  },
+  {
+    "_id": 10,
+    "nombre": "Isidora Castro",
+    "email": "isidora@correo.cl",
+    "ciudad": "Arica",
+    "rut": "23.012.345-K"
+  }
+]

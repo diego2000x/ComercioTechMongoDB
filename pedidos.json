@@ -1,0 +1,17 @@
+[
+  { "_id": 5001, "cliente_id": 1, "productos": [101, 102], "total": 699970 },
+  { "_id": 5002, "cliente_id": 2, "productos": [103], "total": 179990 },
+  { "_id": 5003, "cliente_id": 3, "productos": [104, 105], "total": 135980 },
+  { "_id": 5004, "cliente_id": 4, "productos": [106], "total": 139980 },
+  { "_id": 5005, "cliente_id": 5, "productos": [107], "total": 79990 },
+  { "_id": 5006, "cliente_id": 6, "productos": [108], "total": 249990 },
+  { "_id": 5007, "cliente_id": 7, "productos": [102], "total": 74970 },
+  { "_id": 5008, "cliente_id": 8, "productos": [109], "total": 159990 },
+  { "_id": 5009, "cliente_id": 9, "productos": [110], "total": 109980 },
+  { "_id": 5010, "cliente_id": 10, "productos": [101, 106], "total": 719980 },
+  { "_id": 5011, "cliente_id": 2, "productos": [101, 111], "total": 1199990 },
+  { "_id": 5014, "cliente_id": 2, "productos": [102], "total": 24990 },
+  { "_id": 5015, "cliente_id": 2, "productos": [108, 102], "total": 274980 },
+  { "_id": 5016, "cliente_id": null, "productos": [108], "total": 249990 },
+  { "_id": 5017, "cliente_id": null, "productos": [102, 111], "total": 574990 }
+]

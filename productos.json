@@ -1,0 +1,72 @@
+[
+  {
+    "_id": 101,
+    "nombre": "Notebook Lenovo IdeaPad",
+    "categoria": "Computación",
+    "precio": 649990,
+    "stock": 15
+  },
+  {
+    "_id": 102,
+    "nombre": "Mouse Logitech G203",
+    "categoria": "Accesorios",
+    "precio": 24990,
+    "stock": 50
+  },
+  {
+    "_id": 103,
+    "nombre": "Monitor Samsung 24",
+    "categoria": "Monitores",
+    "precio": 179990,
+    "stock": 20
+  },
+  {
+    "_id": 104,
+    "nombre": "Teclado Redragon Kumara",
+    "categoria": "Accesorios",
+    "precio": 45990,
+    "stock": 35
+  },
+  {
+    "_id": 105,
+    "nombre": "Disco SSD Kingston 1TB",
+    "categoria": "Almacenamiento",
+    "precio": 89990,
+    "stock": 40
+  },
+  {
+    "_id": 106,
+    "nombre": "Audífonos HyperX Cloud",
+    "categoria": "Audio",
+    "precio": 69990,
+    "stock": 25
+  },
+  {
+    "_id": 107,
+    "nombre": "Webcam Logitech C920",
+    "categoria": "Video",
+    "precio": 79990,
+    "stock": 18
+  },
+  {
+    "_id": 108,
+    "nombre": "Tablet Samsung Galaxy Tab",
+    "categoria": "Tablets",
+    "precio": 249990,
+    "stock": 12
+  },
+  {
+    "_id": 109,
+    "nombre": "Impresora HP LaserJet",
+    "categoria": "Impresoras",
+    "precio": 159990,
+    "stock": 10
+  },
+  {
+    "_id": 110,
+    "nombre": "Router TP-Link AX1500",
+    "categoria": "Redes",
+    "precio": 54990,
+    "stock": 22
+  }
+]
